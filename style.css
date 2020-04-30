@@ -47,10 +47,10 @@ p{
     background-color: hsla(179, 62%, 43%, 0.800);
 }
 .paragraph{
+    line-height: 1.4;
     margin: 0em;
     padding: 0em;
-    color: hsl(218, 22%, 67%)
-    ;
+    color: hsl(218, 22%, 67%);
 }
 .heading{
     color: hsla(179, 62%, 43%)
