@@ -14,7 +14,7 @@ p{
 }
 .cards{
     height: 60%;
-    width: 45%;
+    width: 600px;
     border-radius: 7px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     font-family: 'Karla', sans-serif;
@@ -101,7 +101,7 @@ p{
     color: hsl(204, 43%, 93%);
     opacity: .75;
 }
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 700px) {
     .wrapper{
         position: relative;
         min-height: 100vh;
